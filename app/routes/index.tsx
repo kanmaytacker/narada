@@ -11,7 +11,7 @@ export default function Index() {
             </div>
             <img
             className="w-full"
-              src="/Home.svg"
+              src="/home.svg"
               alt="Narada"
             />
         </div>
